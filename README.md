@@ -1,2 +1,2 @@
 # Volatility-Profiles
-Some volatility prifiles which I created
+Some volatility profiles which I created
